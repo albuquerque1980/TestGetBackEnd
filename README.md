@@ -8,3 +8,4 @@ Pré-requisitos
 - Executar os testes da Classe "UserTest.java" em "C:\Test Get Back-End\src\test\java\com\AssureRestTest\api\AssureRestTest\test\UserTest.java"
 
 Qualquer duvida estou a disposição.
+
